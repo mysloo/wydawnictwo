@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<Wydawnictwo>
+    <Umowy>
+        <Praca imie="Marcin" nazwisko="Krasucki" wynagrodzenie="30000.0" okres="1"/>
+        <Dzielo imie="Daniel" nazwisko="Magical" wynagrodzenie="50000.0" typ="Romans" tytul="Jaca i Gocha - historia prawdziwa - 2" cena="39.99"/>
+    </Umowy>
+    <Pozycje>
+        <Album imie="Marcin" nazwisko="Krasucki" tytul="Patologia" cena="49.99" ilosc="5"/>
+        <Romans imie="Daniel" nazwisko="Magical" tytul="Jaca i Gocha - historia prawdziwa - 2" cena="39.99" ilosc="0"/>
+        <Romans imie="Daniel" nazwisko="Magical" tytul="Jaca i Gocha - historia prawdziwa" cena="39.99" ilosc="3"/>
+        <Sensacyjne imie="Marek" nazwisko="Boxdel" tytul="Klaun z Koszalina - wyjasnienie" cena="19.99" ilosc="10"/>
+        <Tygodnik imie="Tomasz" nazwisko="Lucznik" tytul="Zycie mlodego studenta" cena="9.99" ilosc="20"/>
+        <Miesiecznik imie="Krystian" nazwisko="Makowiecki" tytul="Dieta - co i jak?" cena="99.99" ilosc="6"/>
+    </Pozycje>
+</Wydawnictwo>
